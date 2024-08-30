@@ -1,4 +1,4 @@
-const words = ["Mum", "Dad", "Cat", "Dog", "Ball", "Cup", "Car", "Bed", "Book", "Sun", "Moon", "Bird", "Fish", "Tree", "Milk", "Egg", "Hat", "Shoe", "Nose", "Ear", "Bag", "Fork", "Hand", "Foot", "Star", "Chair", "Duck", "Toy", "Bath", "Key", "Door", "Cake", "Pen", "Plane", "Bus", "Rain", "Grass", "House", "Sheep"];
+const words = ["Mum", "Dad", "Cat", "Dog", "Ball", "Cup", "Car", "Bed", "Bad", "Book", "Sun", "Moon", "Bird", "Fish", "Tree", "Milk", "Egg", "Hat", "Shoe", "Nose", "Ear", "Bag", "Fork", "Hand", "Foot", "Star", "Chair", "Duck", "Toy", "Bath", "Key", "Door", "Cake", "Pen", "Plane", "Bus", "Rain", "Grass", "House", "Sheep"];
 let currentWordIndex = 0;
 
 const wordDisplay = document.getElementById('word-display');
